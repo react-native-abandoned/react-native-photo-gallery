@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { ListView } from 'react-native';
+import ListView from 'deprecated-react-native-listview';
 
 export default class BetterList extends Component {
   constructor(props) {
